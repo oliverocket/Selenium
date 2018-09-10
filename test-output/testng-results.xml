@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Testing" duration-ms="48432" started-at="2018-09-05T20:45:56Z" finished-at="2018-09-05T20:46:45Z">
+    <groups>
+    </groups>
+    <test name="Tools QA" duration-ms="48432" started-at="2018-09-05T20:45:56Z" finished-at="2018-09-05T20:46:45Z">
+      <class name="TestNG.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.NewTest@1bce4f0a]" name="beforeMethod" is-config="true" duration-ms="5387" started-at="2018-09-05T20:45:56Z" finished-at="2018-09-05T20:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNG.NewTest@1bce4f0a]" name="f" duration-ms="5277" started-at="2018-09-05T20:46:02Z" finished-at="2018-09-05T20:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.NewTest@1bce4f0a]" name="afterMethod" is-config="true" duration-ms="2114" started-at="2018-09-05T20:46:07Z" finished-at="2018-09-05T20:46:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.NewTest -->
+      <class name="TestNG.SearchAmazon">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.SearchAmazon@5e3a8624]" name="beforeMethod" is-config="true" duration-ms="4028" started-at="2018-09-05T20:46:09Z" finished-at="2018-09-05T20:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNG.SearchAmazon@5e3a8624]" name="f" duration-ms="26438" started-at="2018-09-05T20:46:13Z" finished-at="2018-09-05T20:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.SearchAmazon@5e3a8624]" name="afterMethod" is-config="true" duration-ms="5149" started-at="2018-09-05T20:46:39Z" finished-at="2018-09-05T20:46:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.SearchAmazon -->
+    </test> <!-- Tools QA -->
+  </suite> <!-- Regression Testing -->
+</testng-results>

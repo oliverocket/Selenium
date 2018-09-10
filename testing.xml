@@ -1,0 +1,8 @@
+<suite name="Regression Testing">
+<test name="Tools QA" >
+<classes>
+<class name="TestNG.NewTest"/>
+<class name="TestNG.SearchAmazon"/>
+</classes>
+</test >
+</suite >
